@@ -1,6 +1,5 @@
 Movies
 ----------
-
 --Pushpa 2
 --Shiva
 --Tagore
