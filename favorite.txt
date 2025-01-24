@@ -4,3 +4,9 @@ Food Items
 --egg rice
 --fish Curry
 --dal rice
+
+Movies
+----------
+--Pushpa 2
+--Shiva
+--Tagore
