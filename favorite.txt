@@ -3,3 +3,4 @@ Food Items
 --Biryani
 --egg rice
 --fish Curry
+--dal rice
